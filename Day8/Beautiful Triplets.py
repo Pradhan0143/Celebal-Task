@@ -12,3 +12,4 @@ def beautifulTriplets(d, arr):
         if d+x in arr and 2*d+x in arr:
             c=c+1
     return c
+    
