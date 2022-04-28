@@ -1,4 +1,4 @@
-import math
+'''import math
 import os
 import random
 import re
@@ -9,3 +9,6 @@ def bigSorting(unsorted):
     unsorted.sort()
     unsorted = list(map(str, unsorted))
     print(unsorted)
+    '''
+
+print(value(~))
